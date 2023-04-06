@@ -36,11 +36,10 @@ python Path_to_script/script.py Path_to_folder_to_be_processed
 
 Evry FASTA files in the selected folder will be processed and the corresponding files with trimmed and removed sequences will be created in the same folder
 
-@author: Thomas GUILMENT
-Contact: thomas.guilment@gmail.com
-@Contributor: Rannyele Passos Ribeiro
-
 ## Contributing
 If you would like to contribute to this script, please feel free to submit a pull request or write at thomas.guilment@gmail.com.
+@author: Thomas GUILMENT
+Contact: thomas.guilment@gmail.com
 
+@Contributor: Rannyele Passos Ribeiro
 
