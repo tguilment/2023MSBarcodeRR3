@@ -11,10 +11,10 @@ gives 65 results that can be download by going to:
 send to: > Complete record > File > FASTA format
 
 The beginning of the file is:
->HQ932670.1 Lumbrineris japonica voucher BIOUG<CAN_:BP2010-346 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+> >HQ932670.1 Lumbrineris japonica voucher BIOUG<CAN_:BP2010-346 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
 
 The script will change every line description to
->HQ932670_Lumbrineris_japonica
+> >HQ932670_Lumbrineris_japonica
 
 A serie of tests are made to remove the unwanted sequences:
 1 - The general family name ending by "idae"
