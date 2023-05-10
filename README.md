@@ -1,5 +1,5 @@
 # Project for this article
-Scripts used for the edition of fasta files made with python
+Scripts used for the edition of fasta files made with python. The s_trim_fasta_seq.py is the original script used in the publication. The GUI_trim_fasta_seq.py is the same script working from a PySide6 interface.
 
 ## Purpose
 Change each label in fasta format and remove unwanted sequences for each fasta files contained in a folder
@@ -31,13 +31,15 @@ Then all the sequences containing in upper or lowercase "sp.", "sp", "cf", "cf."
 ## Usage
 
 To use this script, you must have Python 3 installed. You can download Python from the [official Python website](https://www.python.org/downloads/).
-Once you have Python installed, you can run the script from the command line. Here is an example usage, in the shell or terminal type:
+Once you have Python installed, you can run the script s_trim_fasta_seq.py from the command line. Here is an example usage, in the shell or terminal type:
 
 ```bash
 python Path_to_script/script.py Path_to_folder_to_be_processed
 ```
+To run the GUI script, you need to install PySide6
 
-Evry FASTA files in the selected folder will be processed and the corresponding files with trimmed and removed sequences will be created in the same folder
+
+Eevry FASTA files in the selected folder will be processed and the corresponding files with trimmed and removed sequences will be created in the same folder
 
 ## Contributing
 If you would like to contribute to this script, please feel free to submit a pull request or write at thomas.guilment@gmail.com.
