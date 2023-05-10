@@ -8,8 +8,11 @@ Change each label in fasta format and remove unwanted sequences for each fasta f
 From the website https://www.ncbi.nlm.nih.gov/nuccore/ it is possible to download nucleotide sequences related to a specific gene.
 
 The unwanted sequences are removed if:
+
 1 - The general family name ending by "idae"
+
 2 - The line containing "sp.", "sp", "cf", "cf." or "mitochondrion"
+
 3 - We keep only the 3 longest exemplars of the same type of sequences
 
 ### Example
