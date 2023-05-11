@@ -39,7 +39,7 @@ python Path_to_script/script.py Path_to_folder_to_be_processed
 To run the GUI script, you need to install PySide6
 
 
-Eevry FASTA files in the selected folder will be processed and the corresponding files with trimmed and removed sequences will be created in the same folder
+Every FASTA files in the selected folder will be processed and the corresponding files with trimmed and removed sequences will be created in the same folder
 
 ## Contributing
 If you would like to contribute to this script, please feel free to submit a pull request or write at thomas.guilment@gmail.com.
