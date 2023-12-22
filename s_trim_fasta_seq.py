@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-                          RPR Institution
-                    **  All rights reserved **
 
 PROJECT: Fasta processing toolbox
 
